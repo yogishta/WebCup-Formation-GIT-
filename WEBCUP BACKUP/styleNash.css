@@ -90,7 +90,7 @@ color: white;
 font-size: 26px;
 }
 
-#i1:hover, #i2:hover, #i3:hover, #i4:hover, #i5:hover, #i6:hover {
+#i1:hover, #i2:hover, #i3:hover, #i4:hover, #i5:hover, #i6:hover , #i7:hover,#i8:hover,#i9:hover,#i10:hover {
     color: white;
 	-moz-transition: all 0.3s;
   -webkit-transition: all 0.3s;
