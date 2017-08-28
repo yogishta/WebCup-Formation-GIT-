@@ -71,6 +71,14 @@ font-size: 20px;
     /*opacity: 0.5;*/
 	background-color:rgba(0, 0, 0, 0.5);
 }
+
+.rform1{
+    border: 2px solid #a1a1a1;
+    padding:10px;
+    background-image:url('formBackground.jpg');
+   	
+  }
+
 .white{
 	color:white;
 }
