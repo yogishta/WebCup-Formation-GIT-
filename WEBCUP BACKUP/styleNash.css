@@ -46,12 +46,9 @@ font-size: 20px;
 }
 
 .rcorners {
-    border-radius: 50px;
-   /* border-color: #C0C0C0;*/
-    background: #4169E1;
+
+    background: #111144;
     border-style:none;
-    box-shadow: inset 0px 0px 20px 10px #000080; 
-	
 }
 
 .rcorners:focus{
@@ -59,9 +56,8 @@ font-size: 20px;
 
 }
 .form-group{
-	margin-right: 60px;
-	margin-left: 60px;
-	width:80%;
+	
+	width:60%;
 }
 #success_message{ display: none;}
 
@@ -75,6 +71,14 @@ font-size: 20px;
     /*opacity: 0.5;*/
 	background-color:rgba(0, 0, 0, 0.5);
 }
+
+.rform1{
+    border: 2px solid #a1a1a1;
+    padding:10px;
+    background-image:url('formBackground.jpg');
+   	
+  }
+
 .white{
 	color:white;
 }
@@ -117,3 +121,8 @@ font-size: 26px;
  .kcolour{
 	 background-color:rgba(25, 41, 100, 0.5);
  }
+
+
+.btnCss{
+	background-color: black;
+}
