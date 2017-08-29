@@ -1,7 +1,11 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+<<<<<<< HEAD
+  <title>Hello Aquamagic by Me</title>
+=======
   <title>Hello Aquamagic by Yogi !</title>
+>>>>>>> 41ed2552a03846290575da7e4f542d66b8950157
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="stylesheet" href="font-awesome/css/font-awesome.min.css"/>
